@@ -1,7 +1,30 @@
 {
   "header": {
-    "logo_url": "https://pavilion-assets.nyc3.digitaloceanspaces.com/landing/logo-blog.png",
-    "title": "Try Blog",
-    "root": "/blog"
-  }
-}
+    "logo_url": "/uploads/default/original/1X/gnlaptop-darkmode.png",
+    "title": "GoNomad.me",
+    "root": "https://forums.gonomad.me/"
+  },
+
+  "menus": [
+    {
+      "name": "home",
+"items": [
+            {
+              "label": "Home",
+              "href": "/home",
+              "description": "Blog home page."
+            },
+            {
+              "label": "Forums",
+              "href": "/",
+              "description": "Discuss privacy and security."
+            },
+            {
+              "label": "Subscribe (soon)",
+              "href": "/",
+              "description": "Subscribe via e-mail when a new Blog post is made!"
+            }
+          ]
+        }
+      ]
+    }

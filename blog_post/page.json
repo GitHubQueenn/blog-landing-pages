@@ -1,5 +1,6 @@
 {
   "name": "Blog Post",
-  "parent": "blog",
+  "path": "home/1",
+  "parent": "Blog",
   "theme": "Blog Landing Theme"
 }
